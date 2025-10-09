@@ -1,1 +1,1 @@
-MERN - Mongoose Express React Node Social Media Webisite For Developers To Share There Portfolio and Profiles
+Full Stack Social Media Website built with MERN - Mongoose Express React Node, For Developers To Share There Portfolio, create profiles, login with user authentication, create posts and like/comment and talk in discussions
